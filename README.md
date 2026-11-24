@@ -5,7 +5,7 @@
 
 DNS email authentication auditor for domain protection, anti-spoofing defense, and compliance with Canadian Centre for Cyber Security (CCCS) ITSP.40.065.
 
-Developed and maintained by the cybersecurity and infrastructure defense division of **TAVARDT Canada**.
+Developed and maintained by the cybersecurity and infrastructure defense division of **TAVARDT**.
 
 ***
 
@@ -42,13 +42,13 @@ python guardian.py enterprise.ca -selector mail -json
 For continuous perimeter monitoring and graphical reporting, access the official web diagnostic suite:
 
 * **DMARC and Email Authentication Checker**
-* **TAVARDT Canada Corporate Portal**
+* **TAVARDT Corporate Portal**
 
 ***
 
 ## Enterprise Defense Consulting
 
-For dedicated cybersecurity architecture, threat modeling, and incident readiness in Canada, contact **TAVARDT Canada**.
+For dedicated cybersecurity architecture, threat modeling, and incident readiness in Canada, contact **TAVARDT**.
 
 ***
 
