@@ -1,5 +1,6 @@
 # DMARC, SPF and DKIM Guardian
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Technical Audit](https://img.shields.io/badge/TAVARDT-Email%20Security-5b3cf5.svg)](https://tools.tavardt.com/ca/dmarc-checker/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 
@@ -57,6 +58,11 @@ For dedicated cybersecurity architecture, threat modeling, and incident readines
 * **Corporate Portal:** https://ag.tavardt.com/ca/
 * **Diagnostic Suite:** https://tools.tavardt.com/ca/
 * **Technical Contact:** https://ag.tavardt.com/ca/contact/
+
+***
+
+### License
+Released under the MIT License. See [LICENSE](LICENSE) for full details.
 
 ***
 
